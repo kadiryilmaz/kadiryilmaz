@@ -1,21 +1,13 @@
-<!--
-### Hi there 👋
+### Hi there , cheese 📷
+
+i'm Kadir. a developer from istanbul
+
+- 🔭 I’m currently working on ERP Tools and other useful apps
+- 🌱 I’m currently learning everything useful 
+- 🤔 I’m looking for help with you :) 
+- 💬 Ask me about ...Yeah go ask everything
 
 
-**kadiryilmaz/kadiryilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Alt Text](https://media.giphy.com/media/KbTXbwbirQ4phVfE6H/giphy.gif)
--->
-![Alt Text](https://media.giphy.com/media/11VOCn79NdDeDu/giphy.gif)
 
 

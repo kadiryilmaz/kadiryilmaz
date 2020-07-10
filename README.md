@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Alt Text](https://media.giphy.com/media/KbTXbwbirQ4phVfE6H/giphy.gif)
 -->
-![Alt Text](https://media.giphy.com/media/lTLV2erK8vf1MIz4Rk/giphy.gif)
+![Alt Text](https://media.giphy.com/media/11VOCn79NdDeDu/giphy.gif)
 
 

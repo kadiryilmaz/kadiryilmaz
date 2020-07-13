@@ -1,6 +1,6 @@
 ### Hi there , cheese 📷
 
-i'm Kadir. a developer from istanbul
+i'm Kadir. i'm a developer from Istanbul
 
 - 🔭 I’m currently working on ERP Tools and other useful apps
 - 🌱 I’m currently learning everything useful 

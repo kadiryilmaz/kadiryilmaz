@@ -2,7 +2,7 @@
 
 i'm a developer from Istanbul
 
-- 🔭 I’m currently working on ERP Tools and other useful apps
+- 🔭 I’m currently developing on ERP Tools and other useful apps
 
 
 

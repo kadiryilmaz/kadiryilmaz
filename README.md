@@ -1,8 +1,6 @@
-### Hi there , cheese 📷
-
-i'm a developer from Istanbul
-
-- 🔭 I’m currently developing on ERP Tools.
+### Hi there
+I'm a developer from Istanbul
+- 🔭 Currently developing on ERP Tools.
 
 
 

@@ -1,6 +1,6 @@
 ### Hi there
 I'm a developer from Istanbul
-- 🔭 Currently developing ERP Tools.
+- 🔭 Currently developing for ERP Customers.
 
 
 
